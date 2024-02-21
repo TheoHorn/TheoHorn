@@ -1,6 +1,7 @@
 # 💫 About Me:
-📫 How to reach me :  theo.hornberger@gmail.com
+🧔‍♂️I am a 22 years old student in CS, in Telecom Nancy.
 
+📫 How to reach me :  theo.hornberger@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-hornberger) 
