@@ -3,7 +3,7 @@
 
 📫 How to reach me :  theo.hornberger@gmail.com
 
-I'm currently learning C# and .NET
+I'm currently learning C# and .NET. I'm also trying to create a self neural network creator.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-hornberger) 
