@@ -3,7 +3,7 @@
 
 📫 How to reach me :  theo.hornberger@gmail.com
 
-I'm currently learning C# and .NET. I'm also trying to create a self neural network creator.
+I'm currently working for Nestle Waters as an intern. I'm developping a C#/Winforms application.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-hornberger) 
