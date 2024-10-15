@@ -3,7 +3,8 @@
 
 📫 How to reach me :  theo.hornberger@gmail.com
 
-I'm currently working for Nestle Waters as an intern. I'm developping a C#/Winforms application.
+I am currently working on some ML/DL projects.
+I am also looking for an internship in IA and ML starting in March 2025 (about 6 months long)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-hornberger) 
