@@ -3,9 +3,9 @@
 
 📫 How to reach me :  theo.hornberger@gmail.com
 
-I am currently working on some ML/DL projects : ![A Traffic Sign Model](https://github.com/TheoHorn/traffic_sign_recognition)
+I am currently working on some ML/DL projects : ![A Traffic Sign Model](https://github.com/TheoHorn/traffic_sign_recognition).
 I am also looking for an internship in IA and ML starting in March 2025 (about 6 months long)
-Moreover, I am open for a position as a Data Scientist or Analyst, as I have a lot of interests in this field too. 
+Moreover, I am open for a position as a Data Scientist or Data Engineer, as I have a lot of interests in this field too. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/theo-hornberger) 
