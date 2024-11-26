@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧔‍♂️I am a 22 years old student in CS, in Telecom Nancy.
+🧔‍♂️I am a 23 years old student in CS, in Telecom Nancy.
 
 📫 How to reach me :  theo.hornberger@gmail.com
 
